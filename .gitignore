@@ -1,0 +1,5 @@
+datasets
+t2t-vit/checkpoint_cifar100_t2t_vit_14
+t2t-vit/data 
+t2t-vit/runs 
+t2t-vit/81.5_T2T_ViT_14.pth
