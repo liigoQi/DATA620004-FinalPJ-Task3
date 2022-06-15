@@ -1,5 +1,5 @@
 # DATA620004-FinalPJ-Task3
-Pengwei Song & Yifan Qi
+**Pengwei Song & Yifan Qi**
 
 The pre-trained transformer based model can be downloaded from [Github](https://github.com/yitu-opensource/T2T-ViT/releases/download/main/81.5_T2T_ViT_14.pth.tar).
 
